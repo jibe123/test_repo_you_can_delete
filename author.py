@@ -1,3 +1,5 @@
+#changed authorsql
+#changes for testing github
 class AuthorSQL:
     def __init__(self, cursor_param):
         self.cursor = cursor_param
